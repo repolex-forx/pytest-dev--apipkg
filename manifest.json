@@ -35,6 +35,22 @@
       ],
       "ast": [
         "aggregate/ast/9d3f894a53da084961aeb7e298c38f7d889b1cfc/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9d3f894a53da084961aeb7e298c38f7d889b1cfc.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "importlib-metadata",
+          "ecosystem": "PYPI",
+          "version": "9.0.1",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubCommit": "c5acd62aee92667de3d245a786cce14718cfe786",
+          "githubTag": "v9.0.1",
+          "githubUrl": "https://github.com/python/importlib_metadata",
+          "source": "lsp",
+          "raw_name": "importlib_metadata",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/importlib_metadata/__init__.py"
+        }
       ]
     }
   ],
