@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "apipkg",
+  "versions": [
+    {
+      "commit": "9d3f894a53da084961aeb7e298c38f7d889b1cfc",
+      "tag": "v3.0.2",
+      "parsed_at": "2026-09-28T08:01:38.365995+00:00"
+    }
+  ]
+}
